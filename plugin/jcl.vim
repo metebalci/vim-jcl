@@ -133,5 +133,5 @@ let b:current_syntax = "jcl"
 
 set expandtab
 
-# changes by Mete Balci after 2022/05/22
+" changes by Mete Balci after 2022/05/22
 set colorcolumn=72
